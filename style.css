@@ -41,7 +41,7 @@ body {
   font-size: 30px;
 }
 
-.disk-image {
+.disk {
   position: relative;
   display: block;
   margin: 30px auto;
@@ -56,11 +56,11 @@ body {
   animation-play-state: paused;
 }
 
-.disk-image.play {
+.disk.play {
   animation-play-state: running;
 }
 
-.disk-image::before {
+.disk::before {
   content: "";
   position: absolute;
   top: 50%;
