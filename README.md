@@ -1,7 +1,7 @@
 # Audio-Player
 A play list made with HTML, CSS and JS
 
-Problemas que tiene el audio player:
+Problems that the audio player has:
 
--Los numeros de duracion estan un poco lejos unos de otros
-- Cuando arranca la primera cancion el disco se esta moviendo pero sin que suene la musica, cuando le dan click para empezar, la imagen se detiene y arranca la musica. Se empieza a mover nuevamente cuando se le da pausa.Esto solo ocurre en la primera cancion.
+-The duration numbers are a bit far from each other
+- When the first song starts the album is moving but without the music playing, when they click to start, the image stops and the music starts. It starts moving again when paused, this only happens in the first song.
